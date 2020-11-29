@@ -1,0 +1,199 @@
+html, body {}
+
+h1 {
+    font-family: "Special Elite", cursive;
+    text-align: center;
+    height: 225px;
+    background-color: black;
+    color:white;
+    font-size: 75px;
+    padding-top:5%;
+    }
+
+li {
+    padding-left: 8px;
+    font-family: "Special Elite", cursive;
+    font-size:22px;
+}
+
+
+#nav-nav {
+    width:100;
+}
+a:link {
+    color:black;
+    text-decoration: none;
+    }
+a:hover {
+    color:black;
+    text-decoration: underline;
+    }
+a:visited{
+    color:gray;
+    }
+
+img.large {
+    width: 500px;
+    height: 500px;
+    float:left;
+    }
+
+#EarlyPhoto, #advphoto {
+    margin-top:10%;
+    float:left;
+}
+
+
+
+
+h2.footer {
+    font-family: "Special Elite", cursive;
+    font-size: 50px;
+    float:right;
+    color:grey;
+    margin-top:80px;
+    display: block;
+    opacity: 34%;
+    }
+    
+h3{
+    font-family:"Trispace", sans-serif;
+    font-size: 25px;
+    color: rgb(43, 40, 40);
+
+}
+
+
+
+
+
+.space{
+    margin: 300px;
+    display:block;
+    }
+
+
+h3.footer2 {
+    font-family:"Trispace", sans-serif;
+    font-size: 20px;
+    color: rgb(43, 40, 40);
+    text-align: left;
+    margin-left:15px;
+    margin-bottom:10px;
+    margin-top:20px;
+    }
+
+    .container{
+        float:left;
+        text-align:left, justify;
+    }
+
+    .figure {
+        float:right;
+    }
+
+    h3{
+        font-family:"Trispace", sans-serif;
+        font-size: 25px;
+        color: rgb(43, 40, 40);
+        margin-top:5%;
+        margin-left:10px;
+    }
+
+    .right {    font-family:"Trispace", sans-serif;
+        font-size: 25px;
+        color: rgb(43, 40, 40);
+        float:right;
+        margin-top:5%;
+        margin-right:10px;
+        margin-left:80%;
+
+    }
+
+    h2.footer {
+        font-family: "Special Elite", cursive;
+        font-size: 50px;
+        float:right;
+        color:grey;
+        margin-top:80px;
+        display: block;
+        opacity: 34%;
+        }
+
+    #earlyyears, #adventures, #sail{
+        margin-top:5%;
+    
+
+    
+    }
+
+    .copy{ 
+        font-family: "Manrope", sans-serif;
+        text-align:justify;
+        color: rgb(43, 40, 40);
+        text-indent: 5px;
+        font-size:20px;
+            }
+
+        .button {
+            float:right;
+            margin-top:5%;
+            margin-bottom:10px;
+        }
+
+        #zachary{
+            margin-top:7%;
+        }
+
+        .buttonleft{
+            margin-top:5%;
+            margin-bottom:10px;
+        }
+
+        .carousel {
+            width:40%;
+            height:200px;
+            float:right;
+            margin-top:15%;
+            display: inline;
+
+        }
+
+        #thistxt {
+            margin-top:25px;
+        }
+
+        #sail {
+            margin-top:50x;
+        }
+
+        .empty{
+            width:100%;
+            height:25px;
+        }
+
+        #advphoto{
+            float:right;
+        }
+
+        .sail{
+            width:300px;
+            height:300px;
+            margin-top:5%;
+            margin-left:5%;
+        }
+
+        #sailphotos {
+            float:left;
+            margin:auto;
+        }
+
+        #sailtxt{
+            float:right;
+            margin-top:-20px;
+
+        }
+    
+
+
+    
